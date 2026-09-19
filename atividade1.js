@@ -29,5 +29,5 @@ function calcularContagemRegressiva(dataFutura){
 
   }
 
-const contagem = calcularContagemRegressiva('2016-06-09T00:28:00');
+const contagem = calcularContagemRegressiva('2030-06-09T00:28:00');
 console.log(contagem);
