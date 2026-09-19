@@ -1,5 +1,3 @@
-// Questão 1 (1,0 ponto) — Contador Regressivo para Datas Desenvolva uma função calcularContagemRegressiva(dataFutura) que recebe uma data futura (string no formato ISOou objeto Date) e retorna um objeto detalhando quantos dias, horas, minutos e segundos faltam até esse momento.
-
 
 function calcularContagemRegressiva(dataFutura){
     const agora = new Date().getTime(); 

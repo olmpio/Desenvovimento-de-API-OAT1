@@ -1,7 +1,3 @@
-// Questão 2- Desenvolva uma função calcularIMC(peso, altura) que recebe o peso (em kg) e a altura (em metros) de uma pessoacalcula o Índice de Massa Corporal (peso / altura²) e 
-// retorna um objeto contendo o valor numérico arredondado paraduas casas decimais e a sua classificação oficial de acordo com a OMS
-
-
 function calcularIMC(peso,altura){
 
     const valor = peso / (altura **2);
