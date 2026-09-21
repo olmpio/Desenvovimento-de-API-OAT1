@@ -4,7 +4,7 @@ Repositório contendo a resolução das questões avaliativas propostas para a d
 
 ## 👥 Alunos Desenvolvedores
 * **Pedro Olimpio**
-* **Alex Suzart**
+* **Alexsandro Suzart**
 
 ---
 
